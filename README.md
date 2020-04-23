@@ -1,4 +1,4 @@
-# workshopDev-RocketSeat
+# workshop Dev-RocketSeat
 Projeto de uma aplicação web para cadastro de ideiás, durante a crise da Covid19.
 
 <br>
